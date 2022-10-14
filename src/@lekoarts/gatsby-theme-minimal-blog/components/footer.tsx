@@ -22,7 +22,7 @@ const Footer = () => {
     >
       <div>
         {/* Edit Footer Left text here  */}
-        &copy; None whatsoever.
+        &copy; None.
       </div>
 
       <div>

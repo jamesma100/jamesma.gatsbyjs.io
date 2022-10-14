@@ -24,22 +24,18 @@ module.exports = {
         formatString: `MM.DD.YYYY`,
         navigation: [
           {
-            title: `Blog`,
+            title: `blog`,
             slug: `/blog`,
-          },
-          {
-            title: `Projects`,
-            slug: `/projects`,
           },
         ],
         externalLinks: [
           {
-            name: `Github`,
+            name: `github`,
             url: `https://github.com/jamesma100`,
           },
           {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            name: `twitter`,
+            url: `https://twitter.com/_semaj100`,
           },
         ],
       },
