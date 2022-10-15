@@ -24,6 +24,10 @@ module.exports = {
         formatString: `MM.DD.YYYY`,
         navigation: [
           {
+            title: `home`,
+            slug: `/`,
+          },
+          {
             title: `blog`,
             slug: `/blog`,
           },
