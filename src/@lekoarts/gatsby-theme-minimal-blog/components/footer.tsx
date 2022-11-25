@@ -22,7 +22,7 @@ const Footer = () => {
     >
       <div>
         {/* Edit Footer Left text here  */}
-        &copy; None.
+        made with Gatsby
       </div>
 
       <div>
@@ -30,10 +30,10 @@ const Footer = () => {
           aria-label="Link to the theme's GitHub repository"
           href="https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-minimal-blog"
         >
-          Theme
+          theme
         </Link>
         {` `}
-        by
+        adapted from
         {` `}
         <Link
           aria-label="Link to the theme author's website"
